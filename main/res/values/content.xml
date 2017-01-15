@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="sickness">
+        <item>MINOR BURNS</item>
+        <item>TOOTHACHE</item>
+        <item>MINOR Wound</item>
+        <item>NOSE BLEED</item>
+        <item>ITCHY THROAT</item>
+        <item>MIGRAINE</item>
+        <item>COLD</item>
+        <item>FEVER</item>
+        <item>DOG BITE</item>
+        <item>CHOKING</item>
+    </array>
+    <array name="treatment_1">
+
+                <item>Soothe the burn with cold water.</item>
+                <item>1</item>
+                <item>1</item>
+    </array>
+    <array name="treatment_2">
+
+        <item>Take off jewelry that is on the affected area</item>
+        <item>2</item>
+        <item>1</item>
+    </array>
+    <array name="treatment_3">
+
+        <item>Take off jewelry that is on the affected area
+        </item>
+        <item>3</item>
+        <item>1</item>
+    </array>
+    <array name="treatment_4">
+
+        <item>Don’t pop blisters</item>
+        <item>4</item>
+        <item>1</item>
+    </array>
+    <array name="treatment_5">
+
+        <item>Combat pain with over-the-counter medications; Ibuprofen (Advil, Motrin IB), Naproxen sodium (Aleve), Acetaminophen (Tylenol)</item>
+        <item>5</item>
+        <item>1</item>
+    </array>
+    <array name="treatment_6">
+
+        <item>Call a doctor right away if there are signs of infection.</item>
+        <item>6</item>
+        <item>1</item>
+    </array>
+    <array name="treatment_7">
+
+        <item>Rinse your mouth with a glass full of warm water with one teaspoon of common table salt, or sea salt.</item>
+        <item>7</item>
+        <item>2</item>
+    </array>
+    <array name="treatment_8">
+        <item>Floss to remove food particles and plaque</item>
+        <item>8</item>
+        <item>2</item>
+    </array>
+    <array name="treatment_9">
+        <item>Dab a couple of drops of clove oil onto a cotton ball and gently rub onto the aching tooth</item>
+        <item>9</item>
+        <item>2</item>
+    </array>
+    <array name="treatment_10">
+        <item>Wrap an ice cube in a clean cloth or tissue and apply it directly to the outside of your cheek adjacent to the sore tooth for about 10 minutes. </item>
+        <item>10</item>
+        <item>2</item>
+    </array>
+    <array name="treatment_11">
+        <item>Wash your hands and then use a clean bandage or cloth to press firmly on the wound.</item>
+        <item>11</item>
+        <item>3</item>
+    </array>
+    <array name="treatment_12">
+        <item>Wash the skin around the wound with soap and a clean washcloth. Gently pat the wound and surrounding tissues dry. </item>
+        <item>12</item>
+        <item>3</item>
+    </array>
+    <array name="treatment_13">
+        <item>After you have stopped the bleeding and cleaned the wound, apply an antibiotic cream to protect it from infection. </item>
+        <item>13</item>
+        <item>3</item>
+    </array>
+    <array name="treatment_14">
+        <item>Cover the wound with a bandage</item>
+        <item>14</item>
+        <item>3</item>
+    </array>
+    <array name="treatment_15">
+        <item>Monitor the wound to make sure it does not get infected. If it shows signs of infection, call a Doctor immediately</item>
+        <item>15</item>
+        <item>3</item>
+    </array>
+    <array name="treatment_16">
+        <item>Sit down, tilt head forward so that the blood drains through the nostrils.</item>
+        <item>16</item>
+        <item>4</item>
+    </array>
+    <array name="treatment_17">
+        <item>With a finger and thumb, pinch the lower fleshy end of the nose, completely blocking the nostrils.</item>
+        <item>17</item>
+        <item>4</item>
+    </array>
+    <array name="treatment_18">
+        <item>With a finger and thumb, pinch the lower fleshy end of the nose, completely blocking the nostrils. </item>
+        <item>18</item>
+        <item>4</item>
+    </array>
+    <array name="treatment_19">
+        <item>Take a small clean cotton ball or gauze piece, add 1-2 drops of oxymetazoline nasal sprays spray to it, insert them into the nostrils, continue pinching the nostrils, and check for bleeding after 10 minutes. </item>
+        <item>19</item>
+        <item>4</item>
+    </array>
+    <array name="treatment_20">
+        <item>Wash your nose and rest.</item>
+        <item>20</item>
+        <item>4</item>
+    </array>
+    <array name="treatment_21">
+        <item>Add half a teaspoon of salt to 8 ounces of warm water and mix well. Sip and gargle for 10 seconds, then spit--do NOT swallow.</item>
+        <item>21</item>
+        <item>5</item>
+    </array>
+    <array name="treatment_22">
+        <item>Eat some honey. (Never give honey to infants under the age of 12 months)</item>
+        <item>22</item>
+        <item>5</item>
+    </array>
+    <array name="treatment_23">
+        <item>Add a small amount of honey to cup and fill with hot water then, squeeze 1-3 wedges of lemon in. Finally, grate a small amount of ginger, stir ,and drink</item>
+        <item>23</item>
+        <item>5</item>
+    </array>
+    <array name="treatment_24">
+        <item>Before bedtime, boil a cup of milk in a saucepan with a teaspoon of turmeric. Cool slightly before drinking. </item>
+        <item>24</item>
+        <item>5</item>
+    </array>
+    <array name="treatment_25">
+        <item>Add a tablespoon of apple cider vinegar to 8oz of hot water and sip slowly. You can add up to a tablespoon of honey to the drink to improve the taste.</item>
+        <item>25</item>
+        <item>5</item>
+    </array>
+    <array name="treatment_26">
+        <item>Try to drink at least 8 glasses of water per day and drink plenty of green and herbal teas.</item>
+        <item>26</item>
+        <item>5</item>
+    </array>
+    <array name="treatment_27">
+        <item>To maintain a regular sleep schedule. Get up and go to bed at the same time every day if possible.
+        </item>
+        <item>27</item>
+        <item>6</item>
+    </array>
+    <array name="treatment_28">
+        <item>To maintain a regular sleep schedule. Get up and go to bed at the same time every day if possible.
+        </item>
+        <item>28</item>
+        <item>6</item>
+    </array>
+    <array name="treatment_29">
+        <item>Try not to sleep late.</item>
+        <item>29</item>
+        <item>6</item>
+    </array>
+    <array name="treatment_30">
+        <item>Blow your nose gently to avoid excess pressure by pressing one nostril shut with your finger, while blowing very gently to clear the other, then repeating on the other side</item>
+        <item>30</item>
+        <item>7</item>
+    </array>
+    <array name="treatment_31">
+        <item>Pour hot water into a mug, stir in 1 1/2 tablespoons of lemon juice and two teaspoons of honey and drink. </item>
+        <item>31</item>
+        <item>7</item>
+    </array>
+    <array name="treatment_32">
+        <item>Pour hot water into a mug, stir in 1 1/2 tablespoons of lemon juice and two teaspoons of honey and drink. </item>
+        <item>32</item>
+        <item>7</item>
+    </array>
+    <array name="treatment_33">
+        <item>Take a hot bath or shower.</item>
+        <item>33</item>
+        <item>7</item>
+    </array>
+    <array name="treatment_34">
+        <item>Take Temperature</item>
+        <item>34</item>
+        <item>8</item>
+    </array>
+    <array name="treatment_35">
+        <item>Give an over-the-counter medicine such as acetaminophen (Tylenol) or ibuprofen (Advil, Motrin) as directed on the label if the fever is 102 F or higher.</item>
+        <item>35</item>
+        <item>8</item>
+    </array>
+    <array name="treatment_36">
+        <item>Have the person drink plenty of fluids to stay hydrated</item>
+        <item>36</item>
+        <item>8</item>
+    </array>
+    <array name="treatment_37">
+        <item>Place a clean towel over the injury to stop any bleeding.</item>
+        <item>11</item>
+        <item>9</item>
+    </array>
+    <array name="treatment_38">
+        <item>Try to keep the injured area elevated and wash the bite carefully with soap and water. </item>
+        <item>36</item>
+        <item>9</item>
+    </array>
+    <array name="treatment_39">
+        <item>Apply a sterile bandage to the wound</item>
+        <item>14</item>
+        <item>9</item>
+    </array>
+    <array name="treatment_40">
+        <item>Call a doctor immediately. </item>
+        <item>37</item>
+        <item>9</item>
+    </array>
+    <array name="treatment_41">
+        <item>Wrap your arms around the waist. Tip the person forward slightly.</item>
+        <item>38</item>
+        <item>10</item>
+    </array>
+    <array name="treatment_42">
+        <item>Clench one fist and place it right above their belly button an put the other hand on top of your fist and pull sharply inwards and upwards. </item>
+        <item>39</item>
+        <item>10</item>
+    </array>
+    <array name="treatment_43">
+        <item>Continue giving 5 back blows and 5 abdominal thrusts until the victim begins coughing or the object is dislodged</item>
+        <item>40</item>
+        <item>10</item>
+    </array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
